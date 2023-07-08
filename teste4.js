@@ -8,3 +8,4 @@ while (numero > 1) {
 }
 
 console.log("O FATORIAL DE ", aux, " EH = ", fatorial);
+console.log(numero);
